@@ -9,6 +9,5 @@ public class VyomIaApplication {
 	public static void main(String[] args)
 	{
 		SpringApplication.run(VyomIaApplication.class, args);
-		bdhfsdsnfsbdgfnsdf
 	}
 }
